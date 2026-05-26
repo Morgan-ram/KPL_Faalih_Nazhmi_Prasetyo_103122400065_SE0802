@@ -1,0 +1,27 @@
+body {
+    font-family: 'Inconsolata', monospace;
+    background-color: #f0f0f0;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+.kotak-input {
+    display: block;
+    resize: none;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-family: 'Inconsolata', monospace;
+}
+
+p > span {
+    color: coral; 
+    font-weight: bold;
+}
+
+button {
+    cursor: pointer;
+    font-family: 'Inconsolata', monospace;
+    padding: 5px 10px;
+}
