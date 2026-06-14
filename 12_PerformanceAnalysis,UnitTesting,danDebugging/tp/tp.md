@@ -1,7 +1,5 @@
-**Nama:** Rizqi Nawaf Putra Rosyadi
-
-**NIM:** 103122430010
-
+**Nama:** Faalih Nazhmi Prasetyo
+**NIM:** 103122400065
 **Kelas:** SE-08-02
 
 ## Soal
