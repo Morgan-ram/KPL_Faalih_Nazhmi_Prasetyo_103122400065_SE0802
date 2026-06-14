@@ -69,11 +69,11 @@ Tugas: Mengatur dan menampilkan isi modal. Fungsi ini mengosongkan konten lama, 
 
 3. Fungsi createOrderHeader (Fokus pada Header Pesanan)
 
-Tugas: Membuat elemen <h3> yang berisi informasi ID pesanan. Pemisahan ini memudahkan perubahan tampilan header tanpa memengaruhi bagian kode lainnya.
+Tugas: Membuat elemen < h3 > yang berisi informasi ID pesanan. Pemisahan ini memudahkan perubahan tampilan header tanpa memengaruhi bagian kode lainnya.
 
 4. Fungsi createOrderStatus (Fokus pada Status Pesanan)
 
-Tugas: Membuat elemen <p> yang menampilkan status pesanan. Dengan memisahkan fungsi ini, format atau gaya tampilan status dapat diubah secara terpusat.
+Tugas: Membuat elemen < p > yang menampilkan status pesanan. Dengan memisahkan fungsi ini, format atau gaya tampilan status dapat diubah secara terpusat.
 
 5. Fungsi setupModalActionButtons (Fokus pada Event dan Interaksi)
 
