@@ -3,6 +3,7 @@
 **Nama:** Faalih Nazhmi Prasetyo
 **NIM:** 103122400065
 **Kelas:** SE-08-02
+
 **Soal**
 Diberikan dua kode yang sama-sama melakukan operasi pembagian. Pertama menggunakan asersi, kedua menggunakan eksepsi.
 
